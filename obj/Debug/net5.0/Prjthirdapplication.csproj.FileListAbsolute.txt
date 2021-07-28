@@ -1,0 +1,16 @@
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.csproj.AssemblyReference.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.AssemblyInfoInputs.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.AssemblyInfo.cs
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.csproj.CoreCompileInputs.cache
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.exe
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.deps.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.runtimeconfig.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.runtimeconfig.dev.json
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\ref\Prjthirdapplication.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\bin\Debug\net5.0\Prjthirdapplication.pdb
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\ref\Prjthirdapplication.dll
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.pdb
+C:\Users\MADHUSUDAN REDDY\source\repos\Prjthirdapplication\obj\Debug\net5.0\Prjthirdapplication.genruntimeconfig.cache
