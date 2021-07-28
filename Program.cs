@@ -8,6 +8,7 @@ namespace Prjthirdapplication
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello alll!");
+             Console.WriteLine("Hello alll!");
         }
     }
 }
